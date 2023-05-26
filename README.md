@@ -18,3 +18,5 @@ Generates and checks getepic.com class codes
 3. Click the "Use run command" button on the configure panel
 4. Click save on the configure panel
 5. Run the replit
+
+# Made by Meme.rip#6927 | https://discord.gg/CKQuGPqx8M
