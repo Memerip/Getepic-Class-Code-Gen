@@ -35,7 +35,7 @@ def prompt_num_strings_and_threads():
 \____/\___/\__/  /_____/ .___/_/\___/  
                       /_/              
 
-Made by Meme.rip#6927 | Discord Server https://discord.gg/CKQuGPqx8M                                                               
+Made by @memerip | Discord Server https://discord.gg/CKQuGPqx8M                                                               
 
     """)
     while True:
