@@ -1,3 +1,6 @@
+# ⚠️ AS OF 6/22/24 THIS NO LONGER WORKS ⚠️
+(I might update idk)
+
 # Getepic-Class-Code-Gen
 Generates and checks getepic.com class codes
 
@@ -19,4 +22,4 @@ Generates and checks getepic.com class codes
 4. Click save on the configure panel
 5. Run the replit
 
-# Made by Meme.rip#6927 | https://discord.gg/CKQuGPqx8M
+# Made by @memerip | https://discord.gg/CKQuGPqx8M
